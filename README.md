@@ -40,7 +40,7 @@
 
 ## 安装说明
 
-1. 从 [Releases](https://github.com/你的用户名/项目名/releases) 下载最新版本
+1. 从 [Releases](https://github.com/cm-xx/music-control-panel/releases) 下载最新版本
 2. 解压下载的文件
 3. 运行 `音乐控制面板.exe`
 
